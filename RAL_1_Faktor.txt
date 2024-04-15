@@ -1,0 +1,7 @@
+Pemilih	Kelompok
+6	Eksperimen
+8	Kontrol
+13	Eksperimen
+7	Kontrol
+11	Eksperimen
+15	Kontrol
